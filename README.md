@@ -21,7 +21,9 @@
 
 ## 10. Spring Cloud : Spring Cloud Function
 
-## 11. Packing for Deployment
+## 11. Spring Cloud : Sidecar Proxy
+
+## 12. Packing for Deployment
 
 
 
